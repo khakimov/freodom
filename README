@@ -1,0 +1,4 @@
+1. Frēodōm blocks: facebook.com, news.ycombinator.com, reddit.com, gmail.com, …
+2. Automatically changes status to DND (skype/adium)
+
+ruby freodom.rb activate/deactivate
